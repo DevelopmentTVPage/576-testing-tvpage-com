@@ -1,0 +1,86 @@
+{
+    "title": "Content + Commerce - Replacing Human Interaction-ifvtaJs-Wlc.mp4",
+    "description": "",
+    "referenceId": "98074bbf67b420d2b0a5906da7d42fa1",
+    "date_created": "1488487325",
+    "date_modified": "1488487649",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "85651999",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "Content-Commerce-Replacing-Human-Interaction-ifvtaJs-Wlc-mp4",
+    "category": "",
+    "duration": "197",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "197",
+            "width": 1280,
+            "height": 720
+        },
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "mediaDuration": "197",
+        "prettyDuration": "00:03:17",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/thumb-98074bbf67b420d2b0a5906da7d42fa1-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/85651999\/ca1ea\/media.m3u8"
+    },
+    "transcripts": "",
+    "VV_VI": "7",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": [
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 24.75338
+}

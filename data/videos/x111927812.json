@@ -1,0 +1,88 @@
+{
+    "title": "TVP_DTVN_APP.mov",
+    "description": "",
+    "referenceId": "3d4cc41e3cea2a899db8af1ad6089c82",
+    "date_created": "1503104785",
+    "date_modified": "1503104960",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "111927812",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "TVP-DTVN-APP-mov",
+    "category": "",
+    "duration": "31",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "31",
+            "width": 436,
+            "height": 890
+        },
+        "mediaDuration": "31",
+        "prettyDuration": "00:00:31",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/thumb-3d4cc41e3cea2a899db8af1ad6089c82-00001.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 436,
+                "height": 890
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 354,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 236,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 176,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/111927812\/6db3e\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 118,
+                "height": 240
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 8,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-01-19"
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 0
+}

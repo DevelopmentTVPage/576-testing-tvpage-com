@@ -1,0 +1,90 @@
+{
+    "title": "TVP_SKY_Chelsea-Radial.mov",
+    "description": "TVP_SKY_Chelsea-Radial.mov",
+    "referenceId": "15d6202a7dbb6e7d1f8d9f8fab1d2caa",
+    "date_created": "1494969682",
+    "date_modified": "1494971222",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "91834598",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "TVP-SKY-Chelsea-Radial-mov",
+    "category": "",
+    "duration": "54",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "54",
+            "width": 890,
+            "height": 436
+        },
+        "mediaDuration": "54",
+        "prettyDuration": "00:00:54",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/91834598\/651ac\/thumb-15d6202a7dbb6e7d1f8d9f8fab1d2caa-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/91834598\/651ac\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/91834598\/651ac\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/91834598\/651ac\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 890,
+                "height": 436
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91834598\/651ac\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 890,
+                "height": 436
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91834598\/651ac\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 420
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91834598\/651ac\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 314
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91834598\/651ac\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 158
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 484,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-09-28"
+        }
+    },
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

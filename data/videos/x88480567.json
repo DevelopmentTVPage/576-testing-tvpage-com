@@ -1,0 +1,90 @@
+{
+    "title": "UFC Shop Version 2",
+    "description": ".",
+    "referenceId": "395eef58ce0a34382f4d9a6a362ad515",
+    "date_created": "1493084913",
+    "date_modified": "1495489981",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "88480567",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "UFC-shop-video-ver-B-mov",
+    "category": "",
+    "duration": "16",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "16",
+            "width": 950,
+            "height": 534
+        },
+        "mediaDuration": "16",
+        "prettyDuration": "00:00:16",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/146\/canvas\/890\/435\/388488158-01890436.jpg",
+        "type": "mp4",
+        "uploadAsset": false,
+        "quality": "",
+        "dashUrl": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/media.m3u8",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 950,
+                "height": 534
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 950,
+                "height": 534
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/88480567\/02bf0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "1114",
+    "CVV_VI": null,
+    "engagement_score": "23",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": [
+        "28",
+        "25",
+        "9"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 14.238736
+}

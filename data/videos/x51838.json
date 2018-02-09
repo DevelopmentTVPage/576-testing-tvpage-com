@@ -1,0 +1,43 @@
+{
+    "title": "Find and Add Videos",
+    "description": "Search the web for any video to add to your TVPage. Detect a Youtube Channel and import the entire channel if you'd like. Organize everything on your TVPage ...",
+    "referenceId": null,
+    "date_created": "1437693568",
+    "date_modified": "1418180953",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "51838",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "Find-and-Add-Videos",
+    "category": null,
+    "duration": 40,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "mediaDuration": "40",
+        "thumbnailUrl": "http:\/\/i.ytimg.com\/vi\/YFhtnumqOLc\/mqdefault.jpg",
+        "uploadDate": 1370217285,
+        "videoId": "YFhtnumqOLc",
+        "hookText": "Search the web for any video to add to your TVPage. Detect a Youtube Channel and import the entire channel if you'd like. Organize everything on your TVPage ...",
+        "prettyDuration": "00:40"
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "18",
+        "9",
+        "11"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 467.3449
+}

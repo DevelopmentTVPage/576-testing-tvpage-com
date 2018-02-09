@@ -1,0 +1,92 @@
+{
+    "title": "Publisher Driving Traffic to Merchant",
+    "description": "",
+    "referenceId": "4fdbc7d0ace707e0bfc4eec62f26d67e",
+    "date_created": "1501603451",
+    "date_modified": "1501802227",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "107364758",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "publisher-driving-traffic-to-merchant",
+    "category": "",
+    "duration": "7",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "7",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "7",
+        "prettyDuration": "00:00:07",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/thumb-4fdbc7d0ace707e0bfc4eec62f26d67e-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/107364758\/7eaef\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 40,
+    "CVV_VI": "",
+    "engagement_score": "",
+    "conversion_score": "",
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-10-20"
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 14.614227
+}

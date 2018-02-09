@@ -1,0 +1,123 @@
+{
+    "title": "TVPage - For Merchants",
+    "description": ".",
+    "referenceId": "81e43f3c06f800b15d0987550b9080e2",
+    "date_created": "1490125987",
+    "date_modified": "1490146779",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "87406702",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "tvpage-for-merchants",
+    "category": "",
+    "duration": "68",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "68",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "68",
+        "prettyDuration": "00:01:08",
+        "thumbnailUrl": "\/\/sitecdn.tvpage.com\/live\/users\/146\/canvas\/1920\/1077\/390444392-0219201079.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080,
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/tvpage-for-merchants.vtt"
+                    }
+                ]
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720,
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/tvpage-for-merchants.vtt"
+                    }
+                ]
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/tvpage-for-merchants.vtt"
+                    }
+                ]
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360,
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/tvpage-for-merchants.vtt"
+                    }
+                ]
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180,
+                "cc": [
+                    {
+                        "label": "English",
+                        "srclang": "en",
+                        "src": "\/\/v.tvpage.com\/146\/87406702\/c70b0\/tvpage-for-merchants.vtt"
+                    }
+                ]
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "4770",
+    "CVV_VI": null,
+    "engagement_score": "100",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": [
+        "8"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 235.78352
+}

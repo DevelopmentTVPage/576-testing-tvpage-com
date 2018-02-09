@@ -1,0 +1,89 @@
+{
+    "title": "GAP 1969 - New Generation",
+    "description": "1969 Jeans",
+    "referenceId": "6513f6c59f16a9b98147fcc6c1a9c817",
+    "date_created": "1488260668",
+    "date_modified": "1488261273",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "85586861",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "GAP-1969-New-Generation-YKjnuR1ILfY-mp4",
+    "category": "",
+    "duration": "30",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "30",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "30",
+        "prettyDuration": "00:00:30",
+        "thumbnailUrl": "\/\/do0631budpzeh.cloudfront.net\/live\/users\/146\/canvas\/2544\/1345\/966578507-0325441348.png",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/85586861\/d9098\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/85586861\/d9098\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/85586861\/d9098\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85586861\/d9098\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85586861\/d9098\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85586861\/d9098\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85586861\/d9098\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "64",
+    "CVV_VI": null,
+    "engagement_score": "1",
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": [
+        "12",
+        "26"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 131.3273
+}

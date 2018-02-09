@@ -1,0 +1,41 @@
+{
+    "title": "Share and Embed",
+    "description": "Share your TVPage on Facebook, Google and Twitter directly from each TVPage. You can also embed your TVPage on your site or blog by grabbing the embed code d...",
+    "referenceId": null,
+    "date_created": "1437693568",
+    "date_modified": "1418180953",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "51840",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "Share-and-Embed",
+    "category": null,
+    "duration": 65,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "mediaDuration": "65",
+        "thumbnailUrl": "http:\/\/i.ytimg.com\/vi\/yKZ8azwGQJU\/mqdefault.jpg",
+        "uploadDate": 1370218981,
+        "videoId": "yKZ8azwGQJU",
+        "hookText": "Share your TVPage on Facebook, Google and Twitter directly from each TVPage. You can also embed your TVPage on your site or blog by grabbing the embed code d..."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "11",
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 425.8244
+}

@@ -1,0 +1,86 @@
+{
+    "title": "TVP_ATT_GOT_Waterfall",
+    "description": "TVP_ATT_GOT_Waterfall",
+    "referenceId": "858be3b1a0ab9b1fea26c552631cb2da",
+    "date_created": "1494550512",
+    "date_modified": "1494551052",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "91048889",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "TVP-ATT-GOT-Waterfall-mov",
+    "category": "",
+    "duration": "60",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "60",
+            "width": 890,
+            "height": 436
+        },
+        "mediaDuration": "60",
+        "prettyDuration": "00:01:00",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/thumb-858be3b1a0ab9b1fea26c552631cb2da-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 890,
+                "height": 436
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 890,
+                "height": 436
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 420
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 314
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/91048889\/68e1a\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 158
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "10",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 0
+}

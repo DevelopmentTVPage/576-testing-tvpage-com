@@ -1,0 +1,42 @@
+{
+    "title": "TVPage Basics",
+    "description": "Import your Youtube Videos into a TVPage and Share with everyone. Now, you can embed your entire collection (not just one video) on your site or blog! Contac...",
+    "referenceId": null,
+    "date_created": "1437693568",
+    "date_modified": "1418180953",
+    "tags": "",
+    "sourceId": "4",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "51836",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "TVPage-Basics",
+    "category": null,
+    "duration": 30,
+    "settings": [],
+    "asset": {
+        "author": "TVPageTeam",
+        "hdvFlag": 1,
+        "mediaDuration": "30",
+        "thumbnailUrl": "http:\/\/i.ytimg.com\/vi\/ZaRoTAEr3lk\/mqdefault.jpg",
+        "uploadDate": 1370216676,
+        "videoId": "ZaRoTAEr3lk",
+        "hookText": "Import your Youtube Videos into a TVPage and Share with everyone. Now, you can embed your entire collection (not just one video) on your site or blog! Contac..."
+    },
+    "transcripts": null,
+    "VV_VI": null,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": null,
+    "tvp_profiles": [
+        "12",
+        "11",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 503.19748
+}

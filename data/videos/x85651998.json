@@ -1,0 +1,92 @@
+{
+    "title": "20\/20  A Merchandising Vision for 2017",
+    "description": "123",
+    "referenceId": "8baa54b1eecc9ce5b8e320550d58b343",
+    "date_created": "1488487289",
+    "date_modified": "1488494723",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "85651998",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "20-20-A-Merchandising-Vision-for-2017",
+    "category": "",
+    "duration": "3270",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "3270",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "3270",
+        "prettyDuration": "00:54:30",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/thumb-8baa54b1eecc9ce5b8e320550d58b343-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85651998\/cf8a6\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 5,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-11-02"
+        }
+    },
+    "tvp_profiles": [
+        "12"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 141.30959
+}

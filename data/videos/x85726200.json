@@ -1,0 +1,89 @@
+{
+    "title": "10 Tips for Using Video and Visuals to Increase Conversion Now",
+    "description": ".",
+    "referenceId": "6a84224052be2d0e73f9c85bba250ba2",
+    "date_created": "1489001429",
+    "date_modified": "1489004918",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "LONG",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "85726200",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "10-Tips-for-Using-Video-and-Visuals-to-Increase-Conversion-Now",
+    "category": "",
+    "duration": "1815",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "1815",
+            "width": 800,
+            "height": 450
+        },
+        "mediaDuration": "1815",
+        "prettyDuration": "00:30:15",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/85726200\/3569f\/thumb-6a84224052be2d0e73f9c85bba250ba2-00002.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/85726200\/3569f\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/85726200\/3569f\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/85726200\/3569f\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85726200\/3569f\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85726200\/3569f\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 800,
+                "height": 450
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85726200\/3569f\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/85726200\/3569f\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": "19",
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-05-26\"}}}",
+    "tvp_profiles": [
+        "11",
+        "18"
+    ],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": 269.8277
+}

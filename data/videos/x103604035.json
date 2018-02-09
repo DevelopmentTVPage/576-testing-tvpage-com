@@ -1,0 +1,92 @@
+{
+    "title": "Shoppable Video Example with In-Time Calls to Action",
+    "description": ".",
+    "referenceId": "76a3f693d097d31476811e5e6c608a5f",
+    "date_created": "1499362721",
+    "date_modified": "1501202044",
+    "tags": "",
+    "sourceId": "6",
+    "VIDEO_LENGTH": "SHORT",
+    "status": "approved",
+    "visibility": "1",
+    "external_image": null,
+    "id": "103604035",
+    "loginId": "146",
+    "entityType": "1",
+    "titleTextEncoded": "shoppable-video-commerce-example",
+    "category": "",
+    "duration": "21",
+    "settings": "",
+    "asset": {
+        "user": {
+            "firstName": "",
+            "lastName": "",
+            "emailAddress": ""
+        },
+        "videoMeta": {
+            "duration": "21",
+            "width": 1280,
+            "height": 720
+        },
+        "mediaDuration": "21",
+        "prettyDuration": "00:00:21",
+        "thumbnailUrl": "\/\/v.tvpage.com\/146\/103604035\/525a4\/thumb-76a3f693d097d31476811e5e6c608a5f-00001.jpg",
+        "type": "mp4",
+        "dashUrl": "\/\/v.tvpage.com\/146\/103604035\/525a4\/media.mpd",
+        "hlsUrl": "\/\/v.tvpage.com\/146\/103604035\/525a4\/media.m3u8",
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/146\/103604035\/525a4\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/103604035\/525a4\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/103604035\/525a4\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/103604035\/525a4\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/146\/103604035\/525a4\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": "",
+    "VV_VI": 1995,
+    "CVV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2017-07-15"
+        }
+    },
+    "tvp_profiles": [
+        "14"
+    ],
+    "tvp_profiles_manual": "",
+    "tvp_profiles_maxscore": 347.16724
+}
